@@ -101,17 +101,6 @@ The Streamlit dashboard provides visual insights into the emails analyzed during
 - Risk Score Histogram: Shows the distribution of calculated risk scores.
 - Total Emails: Displays the number of emails analyzed in the current session.
 
-## Testing
-
-Run the provided backend test script from the project root:
-
-```bash
-python test_backend.py
-```
-
-The test exercises the analysis pipeline using a sample suspicious email. Ensure that the required model files and Python dependencies are available.
-
-
 
 ##  Security and Privacy
 
